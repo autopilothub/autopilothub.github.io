@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Autopilothub Tech Blog</title>
+    <link>https://autopilothub.github.io/</link>
+    <description>Recent content on Autopilothub Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>koKR</language>
-    <lastBuildDate>Sun, 09 Feb 2020 12:59:55 +0000</lastBuildDate>
+    <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://autopilothub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Sun, 09 Feb 2020 12:59:55 +0000</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
